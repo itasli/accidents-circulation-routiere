@@ -40,7 +40,7 @@ psutil==5.9.4
 ptyprocess==0.7.0
 pure-eval==0.2.2
 py4j==0.10.9.5
-Pygments==2.14.0
+Pygments==2.15.0
 pyparsing==3.0.9
 pyproj==3.5.0
 pyspark==3.3.2
